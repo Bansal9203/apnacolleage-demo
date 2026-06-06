@@ -1,4 +1,4 @@
 # apnacolleage-demo
 This is my first Git Repository.
 <br>
-Author-Shardha Khapra
+Author-Shardha (Apna Colleage)
